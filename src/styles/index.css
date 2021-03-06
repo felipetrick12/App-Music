@@ -1,0 +1,41 @@
+.container-fluid {
+    position: relative;
+    background-image: url(../assets/music.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+div label {
+    margin-left: 5%;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia;
+}
+input .form-control {
+    font-size: 20px;
+   
+}
+
+button  {
+  margin-left: 90.5%;
+}
+
+a{
+    width:40px;
+    height: 40px;
+}
+
+.titulo {
+    width:100%;
+    background-color: rgba(34, 140, 226, 0.575);
+    border: 1px solid #334fee;
+    padding-top: 2%;
+    border-radius: 10px;
+    overflow: hidden;
+    padding-left: 9%;
+}
+.lead  {
+    font-size:30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
